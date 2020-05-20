@@ -5,7 +5,7 @@ comments can also be added to individual post by any developer. Comments can als
 building this application.
 
 Use the following link to access the Web Application:
-https://fierce-cliffs-73994.herokuapp.com/
+
 
 ## Technologies Used - ReactJS, Redux, NodeJS, Atlas MongoDB, Heroku(for deployment)
 
