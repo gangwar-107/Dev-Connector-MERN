@@ -11,4 +11,7 @@ https://ss-dev-connector.herokuapp.com/
 
 ## Screenshots of App
 
-![Screenshot](screenshot.png)
+![Screenshot](Screenshot (233).png)
+![Screenshot](Screenshot (234).png)
+![Screenshot](Screenshot (235).png)
+![Screenshot](Screenshot (236).png)
