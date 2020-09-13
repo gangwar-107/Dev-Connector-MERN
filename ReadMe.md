@@ -11,7 +11,4 @@ https://ss-dev-connector.herokuapp.com/
 
 ## Screenshots of App
 
-![Screenshot](Screenshot (233).png)
-![Screenshot](Screenshot (234).png)
-![Screenshot](Screenshot (235).png)
-![Screenshot](Screenshot (236).png)
+![ScreenShot](https://github.com/gangwar-107/Dev-Connector-MERN/blob/master/Screenshot%20(233).png)
