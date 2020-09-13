@@ -7,6 +7,9 @@ building this application.
 ## Application Link:
 https://ss-dev-connector.herokuapp.com/
 
+## Database Link
+https://cloud.mongodb.com/v2/5ebce66a631e1166eda2abb3#metrics/replicaSet/5f4397950e86a97313746034/explorer/test/posts/find
+
 ## Technologies Used:
 ReactJS, Redux, NodeJS, Atlas MongoDB, Heroku(for deployment)
 
@@ -19,5 +22,8 @@ ReactJS, Redux, NodeJS, Atlas MongoDB, Heroku(for deployment)
 # Profile Page
 ![ScreenShot](https://github.com/gangwar-107/Dev-Connector-MERN/blob/master/Screenshot%20(235).png)
 # SignUp Page
+![ScreenShot](https://github.com/gangwar-107/Dev-Connector-MERN/blob/master/Screenshot%20(236).png)
+
+# Database 
 ![ScreenShot](https://github.com/gangwar-107/Dev-Connector-MERN/blob/master/Screenshot%20(236).png)
 
