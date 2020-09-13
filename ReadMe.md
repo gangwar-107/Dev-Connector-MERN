@@ -12,8 +12,12 @@ ReactJS, Redux, NodeJS, Atlas MongoDB, Heroku(for deployment)
 
 ## Screenshots of App
 
+# Home Page
 ![ScreenShot](https://github.com/gangwar-107/Dev-Connector-MERN/blob/master/Screenshot%20(233).png)
+# Post Page
 ![ScreenShot](https://github.com/gangwar-107/Dev-Connector-MERN/blob/master/Screenshot%20(234).png)
+# Profile Page
 ![ScreenShot](https://github.com/gangwar-107/Dev-Connector-MERN/blob/master/Screenshot%20(235).png)
+# SignUp Page
 ![ScreenShot](https://github.com/gangwar-107/Dev-Connector-MERN/blob/master/Screenshot%20(236).png)
 
