@@ -25,5 +25,5 @@ ReactJS, Redux, NodeJS, Atlas MongoDB, Heroku(for deployment)
 ![ScreenShot](https://github.com/gangwar-107/Dev-Connector-MERN/blob/master/Screenshot%20(236).png)
 
 # Database 
-![ScreenShot](https://github.com/gangwar-107/Dev-Connector-MERN/blob/master/Screenshot%20(236).png)
+![ScreenShot](https://github.com/gangwar-107/Dev-Connector-MERN/blob/master/Screenshot%20(241).png)
 
