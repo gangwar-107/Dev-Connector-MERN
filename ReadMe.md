@@ -9,7 +9,6 @@ https://ss-dev-connector.herokuapp.com/
 
 ## Technologies Used - ReactJS, Redux, NodeJS, Atlas MongoDB, Heroku(for deployment)
 
+## Screenshots of App
 
-
-
-
+![Screenshot](screenshot.png)
